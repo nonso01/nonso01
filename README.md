@@ -7,6 +7,8 @@ ___
 * grew up in: Cameroon 🇨🇲
 * Age:19 and 1 month i think 😑
 * hubby: learning programming for fun🤪! yes you heard me!
+* Currently learning: ECMASCRIPT 5, css3, done with HTML5.
+* Are you revising:Sure and i should make it a habit.
 * **Goal**: Become medical doctor. And a software engineer at 🤔?
 * Why: only **GOD** knows.
 ___
