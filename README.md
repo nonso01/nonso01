@@ -24,6 +24,7 @@ ___
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="35" height="35"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="35" height="35"/>
+  <img src="/images/sass.png" alt="sass-icon">
 
 </p>
 
