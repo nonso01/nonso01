@@ -5,7 +5,7 @@ ___
 * **my Name is**: chukwunonso Martin
 * **Origin**: Nigerian 🇳🇬
 * **grew up in**: Cameroon 🇨🇲
-* **Age**: 19 and 1 month i think 😑
+* **Age**: 19 and 4 month i think 😑
 * **hubby**: learning programming for fun🤪! yes you heard me!
 * **career**: into my first year in *MBBS* wish me luck.
 * **Currently learning**: ECMASCRIPT 5, css3, done with HTML5.
