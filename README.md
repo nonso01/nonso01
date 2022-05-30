@@ -12,6 +12,7 @@ ___
 * **Are you revising**: sure and i should make it a habit.
 * **Goal**: Become medical doctor. And a software engineer at 🤔?
 * **Why**: only **GOD** knows.
+* [my dummy portfolio](https://nonso01.netlify.app/)
 ___
 ### my skills (in constant progress)
 <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
