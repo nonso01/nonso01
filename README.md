@@ -5,7 +5,7 @@ ___
 * **my Name is**: chukwunonso Martin
 * **Origin**: Nigerian 🇳🇬
 * **grew up in**: Cameroon 🇨🇲
-* **Age**: 19 and 4 month i think 😑
+* **Age**: 19 and 6 month i think 😑
 * **hubby**: learning programming for fun🤪! yes you heard me!
 * **career**: into my first year in *MBBS* wish me luck.
 * **Currently learning**: ECMASCRIPT 5, css3, done with HTML5.
@@ -23,7 +23,7 @@ ___
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="35" height="35"/>
+
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="35" height="35"/>
   <img src="/images/sass.png" alt="sass-icon">
