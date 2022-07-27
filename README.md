@@ -37,7 +37,7 @@ ___
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nonso01&hide=prs,issues,contribs&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duanx&layout=compact)](https://github.com/nonso01/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nonso01&layout=compact)](https://github.com/nonso01/github-readme-stats)
 
 
 
