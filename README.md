@@ -35,6 +35,10 @@ ___
 <a href="https://www.linkedin.com/in/nonso-martin-80b221238" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto" width="30"/></a>
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nonso01&hide=prs,issues,contribs&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duanx&layout=compact)](https://github.com/nonso01/github-readme-stats)
+
 
 
 
