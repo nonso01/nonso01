@@ -5,14 +5,14 @@ ___
 * **my Name is**: chukwunonso Martin
 * **Origin**: Nigerian 🇳🇬
 * **grew up in**: Cameroon 🇨🇲
-* **Age**: 19 and 6 month i think 😑
+* **Age**: 19 and 8 months i think 😑
 * **hubby**: learning programming for fun🤪! yes you heard me!
 * **career**: into my first year in *MBBS* wish me luck.
 * **Currently learning**: ECMASCRIPT 5, css3, done with HTML5.
 * **Are you revising**: sure and i should make it a habit.
 * **Goal**: Become medical doctor. And a software engineer at 🤔?
 * **Why**: only **GOD** knows.
-* [MY DUMMY PORTFOLIO](https://nonso01.netlify.app/)
+* building my portfolio...
 ___
 ### my skills (in constant progress)
 <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
