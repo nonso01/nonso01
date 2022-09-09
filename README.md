@@ -1,4 +1,4 @@
-![my style](./images/profile.png)
+![my style](./images/logo.png)
 # Who am i!?
 ___
 **Good question** 
