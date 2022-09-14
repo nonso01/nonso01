@@ -3,13 +3,17 @@
 ___
 
 ```js
-function Whoami{
+
+class Whoami{
+  constructor(){
+    
 this.name
 this.age
 this.nationality
 this.language
 this.position
 this.life
+    }
 //to be continued 
 }
 ```
@@ -20,8 +24,6 @@ ___
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/>
 
 
 
