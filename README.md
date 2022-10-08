@@ -3,19 +3,13 @@
 ___
 
 ```js
+function Nonso(){
 
-class Whoami{
-  constructor(){
-    
-this.name
-this.age
-this.nationality
-this.language
-this.position
-this.life
-    }
-//to be continued 
 }
+  Nonso.prototype={  
+
+}
+//todo
 ```
 ___
 ### my skills (in constant progress)
