@@ -4,10 +4,12 @@ ___
 
 ```js
 function Nonso(){
-
+this.name
+this.age
+this.proffesion
 }
   Nonso.prototype={  
-
+ constructor:Nonso
 }
 //todo
 ```
