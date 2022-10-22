@@ -59,6 +59,11 @@ ___
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nonso01&layout=compact)](https://github.com/nonso01/github-readme-stats)
 
 
+> My config file is still under review, will be adding more contents to it.
+
+- `i will break through in technology`
+
+> i believe so 🙂🔐
 
 
 
