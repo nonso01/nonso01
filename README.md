@@ -36,17 +36,18 @@ const _iAm= new Nonso()
 ```
 ___
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Nonso Martin</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Just being playful</h1>
 
 <h3 align="center">Web developer</h3>
 
 ![Badge](https://visitor-counter-badge.vercel.app/api/nonso01/nonso01) <a href="https://www.github.com/nonso01" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/nonso01?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+<br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
  
  <br>
-🔗 &nbsp;**Connect with me**
+
 
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nonso-martin-80b221238)
 [![Discord](https://img.shields.io/static/v1?label=&labelColor=6E85D3&message=nonso01&color=555555&style=flat&logo=discord&logoColor=white)](https://discord.com/users/)
