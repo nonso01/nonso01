@@ -36,40 +36,40 @@ const _iAm= new Nonso()
 ```
 ___
 
-### What i know and the things i enjoy learning.
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm nonso01 (Naveen)</h1>
+<h3 align="center">Frontend Dev</h3>
 
-<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+![Badge](https://visitor-counter-badge.vercel.app/api/nonso01/nonso01) <a href="https://www.github.com/nonso01" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/nonso01?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
+🔗 &nbsp;**Connect with me**
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="35" height="35"/>
-  <img src="/images/sass.png" alt="sass-icon">
+[![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nonso-martin-80b221238)
+[![Discord](https://img.shields.io/static/v1?label=&labelColor=6E85D3&message=nonso01&color=555555&style=flat&logo=discord&logoColor=white)](https://discord.com/users/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Nonsomartin6?color=1DA1F2&logo=twitter&style=flat)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Ftwitter.com%2Fitsmeshibintmz&screen_name=Nonsomartin6)
 
-</p>
+# 🛠 **&nbsp;languages and tools:**
 
-## meet me on social media.
+<i>Languages and Tools i learn and work with </i>
 
-<a href="https://www.linkedin.com/in/nonso-martin-80b221238" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto" width="30"/></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" height="30" alt="CSS3" /></a>
 
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" height="30" alt="HTML5" /></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nonso01&hide=prs,issues,contribs&show_icons=true)
+<a href="https://desktop.github.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/13171334?s=200&v=4" height="30" alt="githubdesktop" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nonso01&layout=compact)](https://github.com/nonso01/github-readme-stats)
-
-
-> My config file is still under review, will be adding more contents to it.
-
-- `i will break through in technology`
-
-> i believe so 🙂🔐
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" height="30" alt="vscode" /></a>
 
 
+## <img src="https://cdn.discordapp.com/attachments/1020926419708166205/1034125465369182270/stats.png" height="25" alt="CSS3" /> My Github Stats
 
+<p> <img src="https://github-readme-stats-itsmeshibintmz.vercel.app/api?username=nonso01&show_icons=true&&line_height=25&width=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="shibinthomas" />
+<a href="http://www.github.com/nonso01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeshibintmz&stroke=ffffff&background=000000&ring=0891b2&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>
 
+## Contribution Graph
 
-
-
-
-
+  <br/>
+   <a href="https://github.com/itsmeshibintmz"><img alt="Shibin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nonso01&custom_title=Brown'%20Uchiha's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
