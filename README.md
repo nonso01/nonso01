@@ -71,5 +71,5 @@ src="https://img.shields.io/github/followers/nonso01?logo=github&style=for-the-b
 ## Contribution Graph
 
   <br/>
-   <a href="https://github.com/itsmeshibintmz"><img alt="Shibin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nonso01&custom_title=Brown'%20Uchiha's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/itsmeshibintmz"><img alt="Shibin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nonso01&custom_title=nonso01s%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
