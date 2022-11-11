@@ -36,8 +36,9 @@ const _iAm= new Nonso()
 ```
 ___
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm nonso01 (Naveen)</h1>
-<h3 align="center">Frontend Dev</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Nonso Martin</h1>
+
+<h3 align="center">Web developer</h3>
 
 ![Badge](https://visitor-counter-badge.vercel.app/api/nonso01/nonso01) <a href="https://www.github.com/nonso01" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/nonso01?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -50,17 +51,6 @@ src="https://img.shields.io/github/followers/nonso01?logo=github&style=for-the-b
 [![Discord](https://img.shields.io/static/v1?label=&labelColor=6E85D3&message=nonso01&color=555555&style=flat&logo=discord&logoColor=white)](https://discord.com/users/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Nonsomartin6?color=1DA1F2&logo=twitter&style=flat)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Ftwitter.com%2Fitsmeshibintmz&screen_name=Nonsomartin6)
 
-# 🛠 **&nbsp;languages and tools:**
-
-<i>Languages and Tools i learn and work with </i>
-
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" height="30" alt="CSS3" /></a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" height="30" alt="HTML5" /></a>
-
-<a href="https://desktop.github.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/13171334?s=200&v=4" height="30" alt="githubdesktop" /></a>
-
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" height="30" alt="vscode" /></a>
 
 
 ## <img src="https://cdn.discordapp.com/attachments/1020926419708166205/1034125465369182270/stats.png" height="25" alt="CSS3" /> My Github Stats
