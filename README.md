@@ -44,7 +44,8 @@ ___
 src="https://img.shields.io/github/followers/nonso01?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-
+ 
+ <br>
 🔗 &nbsp;**Connect with me**
 
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nonso-martin-80b221238)
@@ -55,8 +56,10 @@ src="https://img.shields.io/github/followers/nonso01?logo=github&style=for-the-b
 
 ## <img src="https://cdn.discordapp.com/attachments/1020926419708166205/1034125465369182270/stats.png" height="25" alt="CSS3" /> My Github Stats
 
-<p> <img src="https://github-readme-stats-itsmeshibintmz.vercel.app/api?username=nonso01&show_icons=true&&line_height=25&width=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="shibinthomas" />
-<a href="http://www.github.com/nonso01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeshibintmz&stroke=ffffff&background=000000&ring=0891b2&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>
+ <img src="https://github-readme-stats-itsmeshibintmz.vercel.app/api?username=nonso01&show_icons=true&&line_height=25&width=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=454455" alt="shibinthomas" />
+ 
+ <br>
+<a href="http://www.github.com/nonso01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeshibintmz&stroke=ffffff&background=454455&ring=0891b2&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>
 
 ## Contribution Graph
 
