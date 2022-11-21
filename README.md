@@ -48,9 +48,11 @@ ___
 ###  ABOUT ME
 
 ```mermaid
-a-->
-a-->
-b-->
-c-->
+graph TD;
+
+Birth--> Eat;
+Birth--> kick bucket;
+Eat--> Grow;
+Grow--> kick bucket;
 
 ```
