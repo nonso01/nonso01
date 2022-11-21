@@ -35,9 +35,22 @@ ___
 
 ## A collection of my past-present-future projects
 
--
--
--
--
--
--
+- [QR Card]()
+- [NFT Card]()
+- []()
+- []()
+- []()
+- []()
+- [A Clock]()
+- 
+___
+
+###  ABOUT ME
+
+```mermaid
+a-->
+a-->
+b-->
+c-->
+
+```
