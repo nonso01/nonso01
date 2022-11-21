@@ -54,7 +54,7 @@ Birth-->Eat;
 Birth-->pass_away;
 Eat-->Grow;
 Grow-->School;
-School--todo;
+School-->todo;
 todo-->pass_away;
 
 ```
