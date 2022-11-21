@@ -50,9 +50,11 @@ ___
 ```mermaid
 graph TD;
 
-A-->B;
-A-->C;
-B-->D;
-C-->D;
+Birth-->Eat;
+Birth-->pass_away;
+Eat-->Grow;
+Grow-->School;
+School--todo;
+todo-->pass_away;
 
 ```
