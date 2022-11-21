@@ -50,9 +50,9 @@ ___
 ```mermaid
 graph TD;
 
-Birth--> Eat;
-Birth--> kick bucket;
-Eat--> Grow;
-Grow--> kick bucket;
+A-->B;
+A-->C;
+B-->D;
+C-->D;
 
 ```
