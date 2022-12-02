@@ -28,6 +28,10 @@
 
 ![Activity graphs](https://activity-graph.herokuapp.com/graph?username=nonso01&custom_title=nonso01s%20Contribution%20Graph&theme=react-dark)
 
+## most used tools
+![states](https://github-readme-stats.vercel.app/api/top-langs?username=nonso01&layout=compact&&bg_color=454455&&text_color=fff)
+
+
 ### my portfolio website
 - [VISIT IT ](https://nonso01.netlify.app)
 
