@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, nice to meet you</h1>
 
-# `JUST A SOFTWARE DEVELOPER`
+# `Frontend Dev`
 
 ![git follow count](https://img.shields.io/github/followers/nonso01?logo=github&style=for-the-badge&color=0891b2&labelColor=1c191)
 
@@ -34,32 +34,8 @@
 
 
 ### my portfolio website
-- [VISIT IT ](https://nonso01.netlify.app)
+- [VISIT IT ](https://nonso01.netlify.app) 
+- a new portfolio is currently under construction, using a constructor lol!
 
-___
 
-## A collection of my past-present-future projects
 
-- [QR Card]()
-- [NFT Card]()
-- []()
-- []()
-- []()
-- []()
-- [A Clock]()
-- 
-___
-
-###  ABOUT ME
-
-```mermaid
-graph TD;
-
-Birth-->Eat;
-Birth-->pass_away;
-Eat-->Grow;
-Grow-->School;
-School-->todo;
-todo-->pass_away;
-
-```
