@@ -6,11 +6,11 @@
 
 
  
- ![nonso01](https://github-readme-stats-itsmeshibintmz.vercel.app/api?username=nonso01&show_icons=true&&line_height=25&width=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=454455)
- 
-## Contribution
 
-![contribution graph](https://github-readme-streak-stats.herokuapp.com/?user=nonso01&stroke=ffffff&background=454455&ring=0891b2&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false)
+ 
+
+
+
 
 ## Activity
 
