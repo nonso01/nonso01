@@ -12,9 +12,9 @@
 
 
 
-## Activity
 
-![martin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nonso01&theme=github)
+
+
 
 
 ## most used tools
