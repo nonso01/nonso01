@@ -14,7 +14,7 @@
 
 ## Activity
 
-![martin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nonso01&theme=github)](https://github.com/nonso01/github-readme-activity-graph)
+![martin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nonso01&theme=github)
 
 
 ## most used tools
