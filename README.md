@@ -1,1 +1,1 @@
-# I want to be GREAT
+# i want to do great things
