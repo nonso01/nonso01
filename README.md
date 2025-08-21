@@ -1,1 +1,1 @@
-# I want to be an Artist
+# I want to be GREAT
