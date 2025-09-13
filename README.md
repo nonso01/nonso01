@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hello! 🦀&animation=blink&descAlign=56&descAlignY=51" alt="nonso01" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hello!!%20🦀&animation=blink&descAlign=56&descAlignY=51" alt="nonso01" />
 </h1>
 
 
-### Some words about me
+### Some Words About Me
 ___
 ```json
 {
@@ -45,7 +45,7 @@ ___
   }
 }
 ```
-### Tools i make use of daily
+### My Favorite Tools
 <p align='left'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt='blender' width='40' height='40' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original-wordmark.svg" alt='react-router' width='40' height='40' />
@@ -58,6 +58,28 @@ ___
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt='rust' width='40' height='40' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt='react' width='40' height='40' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt='vue' width='40' height='40' />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zsh/zsh-original.svg" alt='zshell' width='40' height='40' />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt='git control version' width='40' height='40' />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt='express' width='40' height='40' />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt='nodejs' width='40' height='40' />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" alt='pnpm' width='40' height='40' />
 </p>
-          
+
+### What i do on github
+___
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=nonso01&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=nonso01&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=nonso01&show_icons=true" />
+</picture>
+
+### I Just Love these
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nonso01&layout=donut-vertical&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Snake animation](https://github.com/nonso01/nonso01/blob/output/github-contribution-grid-snake.svg)
