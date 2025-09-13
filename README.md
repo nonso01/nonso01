@@ -82,4 +82,10 @@ ___
 ### I Just Love these
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nonso01&layout=donut-vertical&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/nonso01/nonso01/blob/output/github-contribution-grid-snake.svg)
+#### Visit my portfolio and socials
+___
+> coming soom!
+
+<footer>
+  <img src='https://capsule-render.vercel.app/api?type=waving&height=300&color=222&animation=blink&descAlign=56&descAlignY=51&section=footer' alt='footer image' />
+</footer>
