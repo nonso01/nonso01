@@ -1,6 +1,5 @@
 <h1 align="center">
-  <!-- <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hello!!%20🦀&animation=blink&descAlign=56&descAlignY=51" alt="nonso01" /> -->
-  <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/ca1b6ed6-5827-4b66-82bf-51e7a58a181c" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hello!!%20🦀&animation=blink&descAlign=56&descAlignY=51" alt="nonso01" />
 
 </h1>
 
