@@ -18,20 +18,18 @@ ___
       "status": "still discovering new tricks every day"
     },
     "cybersecurity": {
-      "current_course": true,
-      "certs_in_view": ["CC", "Security+"]
+      "tools": ["linux", "kali tools"],
+      "certs_in_view": ["CC", "Security+", "GCIH", "CEH"],
+      "cert_acquired": ["Google Cybersecurity Professional ertificate V2"]
     }
   },
   "languages": {
     "spoken": ["English", "French"],
     "learning": ["Japanese"],
-    "learning_tool": "Duolingo",
-    "vibe": "polyglot-in-progress 🦉"
   },
   "dream_job": {
     "description": "Living a simple and productive life",
     "goal": "to bring value to everything and everyone around me",
-    "emoji_feel": "🌱💻✨"
   },
   "personality": {
     "style": "curious, creative, value-driven",
@@ -83,10 +81,11 @@ ___
 ### I Just Love these
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nonso01&layout=donut-vertical&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Visit my portfolio and socials
 ___
-> coming soom!
+> coming soon!
 
 <footer>
-  <img src='https://capsule-render.vercel.app/api?type=waving&height=300&color=222&animation=blink&descAlign=56&descAlignY=51&section=footer' alt='footer image' />
+  <!-- <img src='https://capsule-render.vercel.app/api?type=waving&height=300&color=222&animation=blink&descAlign=56&descAlignY=51&section=footer' alt='footer image' /> -->
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/0f7cde35-69e4-484f-bae1-773cac69cc84" />
+
 </footer>
