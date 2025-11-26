@@ -64,7 +64,6 @@ ___
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" alt='pnpm' width='40' height='40' />
 </p>
 
-### What i do on github
 ___
 <picture>
   <source
@@ -78,14 +77,13 @@ ___
   <img src="https://github-readme-stats.vercel.app/api?username=nonso01&show_icons=true" />
 </picture>
 
-### I Just Love these
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nonso01&layout=donut-vertical&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ___
-> coming soon!
+### Certifications
 
 <footer>
   <!-- <img src='https://capsule-render.vercel.app/api?type=waving&height=300&color=222&animation=blink&descAlign=56&descAlignY=51&section=footer' alt='footer image' /> -->
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/0f7cde35-69e4-484f-bae1-773cac69cc84" />
+  <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/0f7cde35-69e4-484f-bae1-773cac69cc84" />
 
 </footer>
